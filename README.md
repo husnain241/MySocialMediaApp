@@ -46,14 +46,7 @@ View existing posts on the main feed.
 
 Use the Add Post feature to create a new post.
 
-Posts appear dynamically on the feed (if real-time updates are enabled).
-
-Screenshot
-
-(
 
 
 Feel free to contribute to this project by submitting issues or pull requests.
-
-License
 
